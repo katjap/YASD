@@ -1,0 +1,37 @@
++=====================+
+|| YET ANOTHER STEPPER|
+||        DRIVER      |
+#+--------------------+
+This is a breakout board for the TI DRV88xx series.
+I have designed it with the DRV8825 in mind although
+it may work with other DRV88xx's. It's important to 
+note that you can't actually do anything with this 
+board as is, because all the control lines go to a 
+flatflex connector which will attach to a breakout
+for the Stellaris Launchpad that has yet to be designed.
+
+The limit switch connecter is ment to connect to an 
+optical interupt sensor, although i'm sure you can 
+figure out how to hook it up to mechanical switches
+if that is what you're looking for.
+
+Make sure to check out the datasheet for the DRV88xx
+you plan to use.
+----------------------------------------------------
+Important note:
+This is only the 2nd PCB I have ever designed. I have
+sook input from the forums at:
+http://dangerousprototypes.com/forum/
+That said, this has not been tested yet, so please take
+it with a grain of salt.
+-----------------------------------------------------
+Licensing/Warranty:
+There is none. I consider this board to be an AS-IS
+donation to the Public Domain provided for under US
+Copyright policy, bla-bla-bla. Do whatever you want
+with this board. I am not responsible for any damages
+and or injury you might cause yourself or property by
+using it. If you'd like to give me some money for the 
+time and effort i put into this I would really
+appreciate it.
+------------------------------------------------------
